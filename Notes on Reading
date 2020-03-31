@@ -1,0 +1,15 @@
+# Prologue and introduction Tom Elliot, Sebastian Heath, John Muccigrosso, 2014 ISAW Papers
+## http://dlib.nyu.edu/awdl/isaw/isaw-papers/7/elliott-heath-muccigrosso/
+
+### Prologue and Introduction
+This article provides best practices from a long conference
+1. Stability
+2. Common Language
+3. Common harvest
+
+All focused on the RDF Triple
+1. Subject=thing being talked about
+2. Predicate=category of statement
+3. Object=content of statement
+Used together, we are able to view many types of data from across repositories and URI
+
